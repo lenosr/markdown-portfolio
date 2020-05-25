@@ -1,4 +1,4 @@
-This repository is a starter portfolio used to explore a little bit about communication using Markdown.
+This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
 =======
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
 
