@@ -1,1 +1,1 @@
-[GitHub](http://github.com)
+[GitHubResume](https://lenosr.github.io/merge-conflicts/)
