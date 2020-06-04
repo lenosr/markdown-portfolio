@@ -1,2 +1,2 @@
-![Image of Gitcat](https://raw.githubusercontent.com/lenosr/markdown-portfolio/master/_includes/Pic.gif)
+![Image of Gitcat](https://github.com/lenosr/markdown-portfolio/raw/update-pics/_includes/Fintechtocat.png)
 
