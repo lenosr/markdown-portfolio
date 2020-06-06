@@ -1,6 +1,5 @@
-1. KDE - Kernel Density Estimation
+1. I am interested in KDE - Kernel Density Estimation and I am working on it, particularly on:
    1. Visualization
-   2. Apply Levy process
-   3. Apply Truncated Levy flight
-2. Evaluate with general and financial data.
-3. Publish the results.
+   2. Application of Levy process
+   3. Application of Truncated Levy flight
+2. Evaluation with general and financial data.
