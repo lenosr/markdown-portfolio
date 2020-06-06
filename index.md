@@ -18,8 +18,8 @@ layout: default
 
 <br>
 
-{% include 06-gif.md %}
+{% include 06-publications.md %}
 
 <br>
 
-{% include 07-publications.md %}
+{% include 07-gif.md %}
