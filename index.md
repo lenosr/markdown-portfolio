@@ -19,3 +19,7 @@ layout: default
 <br>
 
 {% include 06-gif.md %}
+
+<br>
+
+{% include 07-publications.md %}
