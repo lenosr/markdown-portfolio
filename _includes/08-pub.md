@@ -1,4 +1,5 @@
 <p>
+  
 - 2019\
 Legally required fiscal records from Brazilian states and municipalities: published files from 1998 to 2014
 [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPWL7H)
@@ -15,4 +16,5 @@ Process applied to the Chemotherapy of Leukemia
 - 2013\
 A free space measurement approach for dielectric material characterization
 [IEEE](https://ieeexplore.ieee.org/document/6646474)
+
 <p>
