@@ -26,4 +26,4 @@ layout: default
 
 <br>
 
-{% include 08-pub.md %}
+{% include 08-lists.md %}
