@@ -23,3 +23,7 @@ layout: default
 <br>
 
 {% include 07-publications.md %}
+
+<br>
+
+{% include 08-pub.md %}
