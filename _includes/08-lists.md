@@ -10,10 +10,10 @@ Is the public sector of your country a diffusion borrower? Empirical evidence fr
 
 2014
 
-Analytic hierarchy process to tune cost functions in optimal control problems
+1. Analytic hierarchy process to tune cost functions in optimal control problems
 [ITA](http://www.bdita.bibl.ita.br/tesesdigitais/lista_resumo.php?num_tese=67327)
 
-System Dynamics, Optimal Control and Analytic Hierarchy Process applied to the Chemotherapy of Leukemia
+2. System Dynamics, Optimal Control and Analytic Hierarchy Process applied to the Chemotherapy of Leukemia
 [SDC](https://proceedings.systemdynamics.org/2014/proceed/papers/P1249.pdf)
 
 2013
