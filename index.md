@@ -22,4 +22,4 @@ layout: default
 
 <br>
 
-{% include 08-lists.md %}
+{% include 08-Publicationlist.md %}
