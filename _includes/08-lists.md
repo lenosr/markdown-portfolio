@@ -1,3 +1,5 @@
+Publication
+
 2019
 
 Legally required fiscal records from Brazilian states and municipalities: published files from 1998 to 2014
