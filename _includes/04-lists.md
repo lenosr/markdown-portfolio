@@ -6,4 +6,4 @@ I am interested in:
    3. Application of Truncated Levy flight
    4. Evaluation with general and financial data.
 
-2 - Coding in Python following the [Zen of Python] (https://www.python.org/dev/peps/pep-0020/#id2)
+2 - Coding in Python following the [Zen of Python](https://www.python.org/dev/peps/pep-0020/#id2)
