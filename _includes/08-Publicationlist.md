@@ -1,4 +1,3 @@
-<h4>
 <details>
 <summary> Publications: </summary>
 <br>
@@ -42,4 +41,4 @@ A free space measurement approach for dielectric material characterization
 
 3. Shareholdings of the Republic 2016 [STN](http://www.tesouro.fazenda.gov.br/documents/10180/318974/Boletim+estatais+vers%C3%A3o+final/3c1990ff-7db0-490b-aa27-c4c166b4fd28)
 
-</details>
+<\details>
