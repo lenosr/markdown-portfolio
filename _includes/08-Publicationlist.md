@@ -1,6 +1,4 @@
-<details>
-<summary> Publications: </summary>
-<br>
+#### Publications
 
 <details>
 <summary> Scientific: </summary>
