@@ -3,7 +3,6 @@
 <summary> Publications: </summary>
 <br>
 
-<h5>
 <details>
 <summary> Scientific: </summary>
 <br>
@@ -33,7 +32,6 @@ A free space measurement approach for dielectric material characterization
 
 </details>
 
-<h5>
 <details>
 <summary> Corporate Publications: </summary>
 <br>
@@ -43,7 +41,5 @@ A free space measurement approach for dielectric material characterization
 2. Shareholdings of the Republic 2017 [STN](http://www.tesouro.fazenda.gov.br/documents/10180/0/Boletim+das+Participa%C3%A7%C3%B5es+Societ%C3%A1rias+da+Uni%C3%A3o_2017/411ef9fa-e48a-4f40-b193-7ed235a58370)
 
 3. Shareholdings of the Republic 2016 [STN](http://www.tesouro.fazenda.gov.br/documents/10180/318974/Boletim+estatais+vers%C3%A3o+final/3c1990ff-7db0-490b-aa27-c4c166b4fd28)
-
-</details>
 
 </details>
