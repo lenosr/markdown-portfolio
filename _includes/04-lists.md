@@ -9,7 +9,7 @@ I am currently interested in:
 <details>
 <summary> Vis example </summary>
 
-![Image of Gif](https://raw.githubusercontent.com/lenosr/markdown-portfolio/master/_includes/Pic.gif)
+![JointDistGif](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/GifJointDist.gif)
 
 <p>Legally required fiscal records from Brazilian states and municipalities: published files from 1998 to 2014
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPWL7H">Harvard Dataverse</a></p>
