@@ -5,17 +5,7 @@ I have developed projects across different industries (investment management, ae
 I am currently interested in: 
 
 1 - KDE - Kernel Density Estimation and I am working on it, particularly on:
-   1. Visualizations
-<details>
-<summary> Vis example </summary>
-
-![JointDistGif](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/GifJointDist.gif)
-
-<p>Legally required fiscal records from Brazilian states and municipalities: published files from 1998 to 2014
-<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPWL7H">Harvard Dataverse</a></p>
-
-</details>
-
+   1. Visualizations [Joint Distribution KDE](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/GifJointDist.gif)
    2. Application of Levy process
    3. Application of Truncated Levy flight
    4. Evaluation with general and financial data.
