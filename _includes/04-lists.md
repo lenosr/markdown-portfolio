@@ -8,7 +8,9 @@ I am currently interested in:
    1. Visualizations 
    
    ![Joint Distribution KDE](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/GifJointDist.gif)
-   
+
+   ![Cond Distribution](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/Gif1.gif)
+
    2. Application of Levy process
    3. Application of Truncated Levy flight
    4. Evaluation with general and financial data.
