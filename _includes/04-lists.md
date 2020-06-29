@@ -9,7 +9,7 @@ I am currently interested in:
    
    ![Joint Distribution KDE](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/GifJointDist.gif)
 
-   ![Cond Distribution](https://github.com/lenosr/markdown-portfolio/raw/master/_includes/Gif1.gif)
+   ![Cond Distribution](https://github.com/lenosr/KDE-Kernel-density-estimation/raw/master/FinalGIf.gif)
 
    2. Application of Levy process
    3. Application of Truncated Levy flight
