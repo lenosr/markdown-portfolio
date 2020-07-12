@@ -1,6 +1,8 @@
-I am a motivated learner, goal-oriented Computing professional providing high quality solutions to clients from private and public sector for ten years.
+I am a motivated learner, goal-oriented professional providing high quality solutions to clients from private and public sector for ten years.
 
 I have developed projects across different industries (investment management, aerospace research, fintech).
+
+I work at the intersection of statistics, math, computing, data science, finance and engineering
 
 I am currently interested in: 
 
