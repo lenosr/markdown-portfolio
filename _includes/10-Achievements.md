@@ -1,6 +1,6 @@
 #### Achievements
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here, so I can show you some accomplishments I pursued:
 
 <details>
 <summary> Online Certificates </summary>
