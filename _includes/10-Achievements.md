@@ -8,6 +8,5 @@ I'm glad you are here. I plan to talk about ...
 2020
 
 <p> Kaggle feature-engineering
-<a href="https://www.kaggle.com/learn/certification/lenosr/feature-engineering">Feat-eng</a></p>
-
-![Image of Gitcat](https://raw.githubusercontent.com/lenosr/markdown-portfolio/master/_includes/Fintechtocat.png)
+<a href="https://www.kaggle.com/learn/certification/lenosr/feature-engineering">Link Kaggle</a></p>
+<a href="https://lenosr.github.io/certificates/">Link certificate image</a></p>
